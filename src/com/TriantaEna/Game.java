@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Game {
 
     public static void startGame() {
-        System.out.println("Welcome to TicTacToe && Order and Chaos! \n" +
+        System.out.println("Welcome to TicTacToe && Order and Chaos && TriantaEna! \n" +
                 "Please enter the game number you want to play " +
                 "\n 1 for TicTacToe, \n 2 for Order and Chaos, " +
                 "\n 3 for Trianta Ena:");
