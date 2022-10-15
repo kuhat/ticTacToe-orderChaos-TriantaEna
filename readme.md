@@ -1,10 +1,5 @@
-# CS611-<Assignment 2>
-## <Cards Anyone?>
+## <Cards and Boards game infrustructure>
 ---------------------------------------------------------------------------
-<Wenhao Zhou>
-<whzhou@bu.edu>
-<U36389876>
-
 ## Files
 ---------------------------------------------------------------------------
 <A brief description of each file and what it does>
