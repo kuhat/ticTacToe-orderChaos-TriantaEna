@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e59b123b-e6e3-4806-a4df-a36d6249ca16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TriantaEna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/TriantaEna/triantaEnaChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/TriantaEna/triantaEnaInstructions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/TriantaEna/triantaEnaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/TriantaEna/triantaEnaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/orderAndChaos/orderAndChaosBoardPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/orderAndChaos/orderAndChaosRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/tictactoe/TicTacToeBoardPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/tictactoe/TicTacToeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/boardGame/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/boardGame/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/boardGame/boardPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/cardGame/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/cardGame/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/cardGame/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/cardGame/cardPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TriantaEna/utils/cardGame/playerAction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G69oxMlAJwSaE4HPhcszl6tDfR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/zwh/coursework/BU/Sem1/CS611/CW2/TriantaEna",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TriantaEna.Game" />
+      <module name="TriantaEna" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TriantaEna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TriantaEna.main" />
+      <module name="TriantaEna" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TriantaEna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e59b123b-e6e3-4806-a4df-a36d6249ca16" name="Changes" comment="" />
+      <created>1665698345766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665698345766</updated>
+      <workItem from="1665698347242" duration="625000" />
+      <workItem from="1665702280484" duration="11698000" />
+      <workItem from="1665721350934" duration="7416000" />
+      <workItem from="1665755531946" duration="11320000" />
+      <workItem from="1665772714981" duration="19517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
