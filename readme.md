@@ -37,16 +37,16 @@ src/com/TriantaEna/utils/boardGame/Cell.java: Cell class used by the two board g
 src/com/TriantaEna/utils/boardGame/boardPlayer.java: board game Player abstract class which defines the basic behavior of a board game player (CW1)
 
 src/com/TriantaEna/tictactoe/TicTacToeBoardPlayer.java: TicTacToe player inherited from the Player class, which contains
-the behaviors and methods of a TicTacToe Player (CW1)
+the behaviors and methods of a TicTacToe Player
 
 src/com/TriantaEna/tictactoe/TicTacToeBoardRunner.java: An actual running instance of TicTacToe game which implements
-interface GameState, which contains customized methods and behaviors (CW1)
+interface GameState, which contains customized methods and behaviors 
 
 src/com/TriantaEna/orderAndChaos/orderAndChaosRunner.java: Order And Chaos player inherited from the Player class,
-which contains the behaviors and methods of an Order And Chaos Player (CW1)
+which contains the behaviors and methods of an Order And Chaos Player 
 
 src/com/TriantaEna/orderAndChaos/orderAndChaosBoardPlayer.java: An actual running instance of Order And Chaos game which
-implements interface GameState, which contains customized methods and behaviors (CW1)
+implements interface GameState, which contains customized methods and behaviors 
 
 ## How to compile and run
 1. Navigate to the directory "/TriantaEna" after unzipping the files
