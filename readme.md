@@ -1,5 +1,6 @@
-## <Cards and Boards game infrustructure>
+# Cards and Boards game infrustructure
 ---------------------------------------------------------------------------
+An OOP design in Java
 ## Files
 ---------------------------------------------------------------------------
 <A brief description of each file and what it does>
